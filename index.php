@@ -153,7 +153,7 @@
     </form>
 </div>
 <div class="output"><img id="overlayedImage" alt="Overlayed Image"
-                         src="base/compiler.php.bak?hairVariant=2&hairColor=000000&skinColor=000000&eyeColor=000000&underGarmentVariant=2">
+                         src="base/compiler.php?hairVariant=2&hairColor=000000&skinColor=000000&eyeColor=000000&underGarmentVariant=2">
 </div>
 </body>
 </html>
